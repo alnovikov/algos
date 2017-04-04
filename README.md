@@ -17,5 +17,5 @@ This repo contains implementation of absolutely must-have knowledge common algor
 * Trees, Tries and Graphs (TODO)
 * Stack & Queues (TODO)
 * Heaps (TODO)
-* Vectors / ArrayLists
-* Hash Tables
+* Vectors / ArrayLists (TODO)
+* Hash Tables (TODO)
