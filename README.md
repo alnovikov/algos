@@ -6,7 +6,7 @@ This repo contains implementation of absolutely must-have knowledge common algor
 
 * Bubble Sort (that one was just to kick start)
 * Quick Sort (TODO)
-* Merge Sort (TODO)
+* Merge Sort
 * Breadth-First Search (TODO)
 * Depth-First Search (TODO)
 * Binary Search (TODO)
