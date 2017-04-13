@@ -13,7 +13,7 @@ This repo contains implementation of absolutely must-have knowledge common algor
 
 ## Data Structures:
 
-* Linked Lists (Singly List) [x]
+* Linked Lists (Singly List)
 * Trees, Tries and Graphs (TODO)
 * Stack & Queues (TODO)
 * Heaps (TODO)
