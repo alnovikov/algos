@@ -4,16 +4,16 @@ This repo contains implementation of absolutely must-have knowledge common algor
 
 ## Algorithms
 
-* Bubble Sort (that one was just to kick start)
+* Bubble Sort (horrible complexity but that one was just to kick start)
 * Quick Sort (TODO)
-* Merge Sort
+* Merge Sort (done)
 * Breadth-First Search (TODO)
 * Depth-First Search (TODO)
 * Binary Search (TODO)
 
 ## Data Structures:
 
-* Linked Lists (TODO)
+* Linked Lists (Singly List) [x]
 * Trees, Tries and Graphs (TODO)
 * Stack & Queues (TODO)
 * Heaps (TODO)
